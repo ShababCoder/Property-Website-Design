@@ -69,8 +69,6 @@ About Us
 
 The Leading Real Estate Rental Marketplace.
 
-Over 39,000 people work for us in more than 70 countries all over the This breadth of global coverage, combined with specialist services
-
 <ion-icon name="home-outline"></ion-icon>
 Smart Home Design
 
@@ -298,7 +296,7 @@ Order tracking
 FAQ
 Contact us
 
-&copy; 2022 codewithsadee. All Rights Reserved
+&copy; 2024 Code_builder. All Rights Reserved
 
 
 
