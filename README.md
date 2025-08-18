@@ -31,23 +31,20 @@ To run **Homeverse** locally, run this command on your git bash:
 
 Linux and macOS:
 
-```bassudodo git clone https://github.com/codewithsadee/homeverse.git
+``` 
+git clone https://github.com/codewithsadee/homeverse.git](https://github.com/ShababCoder/Property-Website-Design.git)
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/homeverse.git
+git clone [https://github.com/codewithsadee/homeverse.git](https://github.com/ShababCoder/Property-Website-Design.git)
 ```
 
 ### Contact
 
 If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/hussaini304).
 
-# License
+### License
 
-
-
-
-
-This project is **free to uttttttt on the Licenseis **free tThishisnse.
+This project is **free to use on the Codebuilder License.
