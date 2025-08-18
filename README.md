@@ -12,7 +12,8 @@
   <a href="https://shababcoder.github.io/homeverse/"><strong>➥ Live Demo</strong></a>
 
 </div>
-brbr />
+<br/>
+<br />
 
 ### Demo Screeshots
 
